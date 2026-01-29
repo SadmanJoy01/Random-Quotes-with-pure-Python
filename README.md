@@ -39,7 +39,7 @@ Built using **pure Python** and a **free public API** — no API key required.
 — Theodore Roosevelt
 
 ## ▶️ How to Run
-- You can copy the source codes > make a file named passgen.py on pc > run it directly by opening the file
+- You can copy the source codes > make a file named randquote.py on pc > run it directly by opening the file
 
 ---
 
