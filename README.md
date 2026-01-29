@@ -18,3 +18,32 @@ Built using **pure Python** and a **free public API** — no API key required.
 **Quotable API**  
 - Free to use
 - No API key required
+
+---
+
+## 🛠️ Built With
+
+- Python 3
+
+## 📦 Requirements
+
+- Python 3 to upgrades  
+(No third-party dependencies required)
+
+---
+
+## Example output
+💬 Random Quote
+----------------------------
+"Do what you can, with what you have, where you are."
+— Theodore Roosevelt
+
+## ▶️ How to Run
+- You can copy the source codes > make a file named passgen.py on pc > run it directly by opening the file
+
+---
+
+## ⚠️ SSL Certificate Issue
+If you see an error like - SSL: CERTIFICATE_VERIFY_FAILED
+- This is caused by outdated SSL certificates on your system.
+
